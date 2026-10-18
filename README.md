@@ -3,6 +3,8 @@
 A cinematic, streaming-inspired portfolio for **Mohd Haseeb Hanif**: Software Engineer and AI/ML engineer, final-year B.Tech CSE at Delhi Technological University (DTU ’27).
 Every section is an episode, every project is an Original, and the whole site plays like a series.
 
+**▶ Watch it live: [mohd-haseeb-hanif.vercel.app](https://mohd-haseeb-hanif.vercel.app)**
+
 > A personal portfolio with a fictional streaming-platform look. It is not affiliated with Netflix or any other streaming service and uses none of their logos.
 > Built on the open "Portfolio Series" layout by [Sushmita Dasari](https://github.com/Sushmitadasari/Portfolio_series), re-written with Haseeb's own story, projects and artwork.
 
@@ -24,7 +26,7 @@ npm run build
 npm run preview
 ```
 
-The static site is written to `dist/` and deploys as-is to Vercel (framework preset: Vite).
+The static site is written to `dist/`. It is deployed on Vercel, which redeploys automatically on every push to `main`.
 
 ## Updating the content
 
